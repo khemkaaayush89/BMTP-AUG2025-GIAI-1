@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f82953e-8feb-4d47-b0fd-7e4f871a859f" name="Changes" comment="agent example and tokenization">
-      <change afterPath="$PROJECT_DIR$/crew_ai_research_output.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Code.iml" afterDir="false" />
+    <list default="true" id="4f82953e-8feb-4d47-b0fd-7e4f871a859f" name="Changes" comment="agent architecture code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
@@ -92,7 +90,7 @@
       <workItem from="1755876970292" duration="10222000" />
       <workItem from="1756023567197" duration="4391000" />
       <workItem from="1756132643540" duration="2804000" />
-      <workItem from="1756472421480" duration="6472000" />
+      <workItem from="1756472421480" duration="8926000" />
     </task>
     <task id="LOCAL-00001" summary="New project">
       <option name="closed" value="true" />
@@ -142,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756035342073</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="agent architecture code">
+      <option name="closed" value="true" />
+      <created>1756541990068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756541990068</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +171,8 @@
     <MESSAGE value="add data files" />
     <MESSAGE value="app examples" />
     <MESSAGE value="agent example and tokenization" />
-    <option name="LAST_COMMIT_MESSAGE" value="agent example and tokenization" />
+    <MESSAGE value="agent architecture code" />
+    <option name="LAST_COMMIT_MESSAGE" value="agent architecture code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Code$api.coverage" NAME="api Coverage Results" MODIFIED="1755935834160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

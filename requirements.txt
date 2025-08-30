@@ -6,3 +6,10 @@ langchain
 autogen
 langchain_openai
 langgraph
+torch
+transformers
+datasets
+pandas
+evaluate
+peft
+accelerate
